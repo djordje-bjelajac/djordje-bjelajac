@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @djordje-bjelajac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Đorđe 👋
 
-<!---
-djordje-bjelajac/djordje-bjelajac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Senior Software Engineer based in Berlin, originally from Bosnia and Herzegovina. I love solving meaningful problems through code, and I'm always curious about how things work—be it in software, life, or art.
+
+## 🧠 What I Do
+
+- 🧩 **Build systems** with clarity, domain thinking, and clean boundaries
+- 📊 **Trade ideas** with algorithms – working on a short-term crypto trading bot
+- 🛠️ **Design APIs** that make sense – recent focus on statistics endpoints, groupings, and roles
+- 🏗️ **DevOps & Infra** – Terraform, CI/CD automation, and simplifying environments
+- 🧪 **Test & Refactor** – I appreciate solid, readable code that doesn’t break when touched
+
+## 💡 What I’m Into
+
+- 🧘‍♂️ Yoga, 🏃‍♂️ HIIT, and 🥊 Muay Thai (training for body & mind)
+- 🧠 Philosophy, 📚 literature, and 🎧 building thematic playlists
+- ⚙️ Autonomy, financial independence, and building tools that free people from busywork
+- 🛵 Planning to ride a classic motorcycle around Europe (Ducati Sport 1000 Biposto is the dream!)
+
+## 🛠️ Tech Stack & Tools
+
+```ts
+Languages:  TypeScript | Python | Golang | Cypher | SQL
+Tools:      Terraform | GitHub Actions | Kubernetes | Docker | PostgreSQL | Neo4j | Kafka
+Frameworks: Nest.js | Fastify | Express | Jest | Playwright
+Practices:  DDD | TDD | Hexagonal Architecture | Event-driven systems | CI/CD | Testing
+```
+## 🌱 Currently Learning
+- Rust
+- Improving my sleep, breath, and strength 💪
+## ✍️ Side Projects & Hobbies
+- 🧠 A trading bot that thinks before it acts (with GPT rating signals)
+- 🎨 Drawing, painting, and curating playlists
+- 📜 Personal site (static HTML & CSS—simple by design)
