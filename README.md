@@ -1,7 +1,7 @@
 # Hi there, I'm Đorđe 👋
 
 I'm a Senior Software Engineer based in Berlin, originally from Bosnia and Herzegovina. I love solving meaningful problems through code, and I'm always curious about how things work—be it in software, life, or art.
-
+<!-- This is a comment 
 ## 🧠 What I Do
 
 - 🧩 **Build systems** with clarity, domain thinking, and clean boundaries
@@ -15,7 +15,7 @@ I'm a Senior Software Engineer based in Berlin, originally from Bosnia and Herze
 - 🧘‍♂️ Yoga, 🏃‍♂️ HIIT, and 🥊 Muay Thai
 - ⚙️ Autonomy, financial independence, and building tools that free people from busywork
 - 🛵 Planning to ride a classic motorcycle around Europe (Ducati Sport 1000 Biposto is the dream!)
-
+-->
 ## 🛠️ Tech Stack & Tools
 
 ```ts
@@ -24,10 +24,13 @@ Tools:      Terraform | GitHub Actions | Kubernetes | Docker | PostgreSQL | Neo4
 Frameworks: Nest.js | Fastify | Express | Jest | Playwright
 Practices:  DDD | TDD | Hexagonal Architecture | Event-driven systems | CI/CD | Testing
 ```
+<!-- This is a comment 
 ## 🌱 Currently Learning
 - Rust
 - Improving my sleep, breath, and strength 💪
+
 ## ✍️ Side Projects & Hobbies
 - 🧠 A trading bot that thinks before it acts (with GPT rating signals)
 - 🎨 Drawing, painting, and curating playlists
 - 📜 Personal site (static HTML & CSS—simple by design)
+-->
