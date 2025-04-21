@@ -12,7 +12,7 @@ I'm a Senior Software Engineer based in Berlin, originally from Bosnia and Herze
 
 ## 💡 What I’m Into
 
-- 🧘‍♂️ Yoga, 🏃‍♂️ HIIT, and 🥊 Muay Thai (training for body & mind)
+- 🧘‍♂️ Yoga, 🏃‍♂️ HIIT, and 🥊 Muay Thai
 - ⚙️ Autonomy, financial independence, and building tools that free people from busywork
 - 🛵 Planning to ride a classic motorcycle around Europe (Ducati Sport 1000 Biposto is the dream!)
 
