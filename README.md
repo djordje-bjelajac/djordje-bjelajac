@@ -1,6 +1,6 @@
 # Hi there, I'm Đorđe 👋
 
-I'm a Senior Software Engineer based in Berlin, originally from Bosnia and Herzegovina. I love solving meaningful problems through code, and I'm always curious about how things work—be it in software, life, or art.
+I'm a Software Engineer based in Berlin, originally from Bosnia and Herzegovina. I love solving meaningful problems through code, and I'm always curious about how things work—be it in software, life, or art.
 <!-- This is a comment 
 ## 🧠 What I Do
 
@@ -19,7 +19,7 @@ I'm a Senior Software Engineer based in Berlin, originally from Bosnia and Herze
 ## 🛠️ Tech Stack & Tools
 
 ```ts
-Languages:  TypeScript | Python | Golang | Cypher | SQL
+Languages:  TypeScript | Python | Rust | Golang | Cypher | SQL
 Tools:      Terraform | GitHub Actions | Kubernetes | Docker | PostgreSQL | Neo4j | Kafka
 Frameworks: Nest.js | Fastify | Express | Jest | Playwright
 Practices:  DDD | TDD | Hexagonal Architecture | Event-driven systems | CI/CD | Testing
